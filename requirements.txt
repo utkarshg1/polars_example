@@ -1,0 +1,8 @@
+polars
+matplotlib
+seaborn
+ipykernel
+fastexcel
+xlsx2csv
+openpyxl
+altair
