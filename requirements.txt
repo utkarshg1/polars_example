@@ -6,3 +6,5 @@ fastexcel
 xlsx2csv
 openpyxl
 altair
+numpy
+pandas
